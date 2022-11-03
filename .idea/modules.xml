@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/A_Iterator/A_Iterator.iml" filepath="$PROJECT_DIR$/A_Iterator/A_Iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BETA_Design_Pattern.iml" filepath="$PROJECT_DIR$/BETA_Design_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B_Adaptor/B_Adaptor.iml" filepath="$PROJECT_DIR$/B_Adaptor/B_Adaptor.iml" />
+    </modules>
+  </component>
+</project>
