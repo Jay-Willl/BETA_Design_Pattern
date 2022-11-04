@@ -1,0 +1,5 @@
+#{month=Nov, year=2022, day=4}
+#Fri Nov 04 22:41:30 CST 2022
+month=Nov
+year=2022
+day=4
