@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/A_Iterator/A_Iterator.iml" filepath="$PROJECT_DIR$/A_Iterator/A_Iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/BETA_Design_Pattern.iml" filepath="$PROJECT_DIR$/BETA_Design_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/B_Adapter/B_Adapter.iml" filepath="$PROJECT_DIR$/B_Adapter/B_Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C_Template_Method/C_Template_Method.iml" filepath="$PROJECT_DIR$/C_Template_Method/C_Template_Method.iml" />
     </modules>
   </component>
 </project>
