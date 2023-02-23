@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/BETA_Design_Pattern.iml" filepath="$PROJECT_DIR$/BETA_Design_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/B_Adapter/B_Adapter.iml" filepath="$PROJECT_DIR$/B_Adapter/B_Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/C_Template_Method/C_Template_Method.iml" filepath="$PROJECT_DIR$/C_Template_Method/C_Template_Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D_Factory_Method/D_Factory_Method.iml" filepath="$PROJECT_DIR$/D_Factory_Method/D_Factory_Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E_Signleton/E_Signleton.iml" filepath="$PROJECT_DIR$/E_Signleton/E_Signleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q_Observer/Q_Observer.iml" filepath="$PROJECT_DIR$/Q_Observer/Q_Observer.iml" />
     </modules>
   </component>
 </project>
